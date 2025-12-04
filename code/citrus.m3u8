@@ -1,0 +1,395 @@
+#EXTM3U
+#EXTINF:-1 tvh-chnum="2" tvg-id="abckabc.us" tvg-name="CA | Los Angeles | ABC KABC" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Flogopedia%2Fimages%2F0%2F01%2FABC7_LosAngeles2012.png%2Frevision%2Flatest%2Fscale-to-width-down%2F2000%3Fcb%3D20130206210212&f=1&nofb=1&ipt=376abdaac1b4ea755c387b653249fb186b153c2cb4e13a5b99d6d29960e8adcb&ipo=images" group-title="US-LOCALS",CA | Los Angeles | ABC KABC
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1059123.ts
+#EXTINF:-1 tvh-chnum="3" tvg-id="cbskcbs.us" tvg-name="CA | Los Angeles | CBS KCBS" tvg-logo="https://imgx.fubo.tv/station_logos/kcbs_tv_c.png" group-title="US-LOCALS",CA | Los Angeles | CBS KCBS
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1058638.ts
+#EXTINF:-1 tvh-chnum="4" tvg-id="foxkttv.us" tvg-name="CA | Los Angeles | FOX KTTV" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Firp.cdn-website.com%2F5f517329%2Fdms3rep%2Fmulti%2FKTTV_FOX11_SIGNATURE_LOGO_LOS_ANGELES_BLUE_RGB_BNF.png&f=1&nofb=1&ipt=6fd9fc0125c689dbdf18c302cf333530861d2d0c174f4b5cd802d479417525d2&ipo=images" group-title="US-LOCALS",CA | Los Angeles | FOX KTTV
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1058639.ts
+#EXTINF:-1 tvh-chnum="5" tvg-id="nbcknbc.us" tvg-name="CA | Los Angeles | NBC KNBC" tvg-logo="https://imgx.fubo.tv/station_logos/nbc_c.png" group-title="US-LOCALS",CA | Los Angeles | NBC KNBC
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1058640.ts
+#EXTINF:-1 tvh-chnum="6" tvg-id="abcwabc.us" tvg-name="NY | New York | ABC WABC" tvg-logo="https://e7.pngegg.com/pngimages/92/286/png-clipart-wabc-tv-eyewitness-news-wzvn-tv-kabc-tv-american-broadcasting-company-others-television-trademark-thumbnail.png" group-title="US-LOCALS",NY | New York | ABC WABC
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1059165.ts
+#EXTINF:-1 tvh-chnum="7" tvg-id="cbswcbs.us" tvg-name="NY | New York | CBS WCBS" tvg-logo="https://imgx.fubo.tv/station_logos/wcbs_tv_c.png" group-title="US-LOCALS",NY | New York | CBS WCBS
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1058916.ts
+#EXTINF:-1 tvh-chnum="8" tvg-id="foxwnyw.us" tvg-name="NY | New York | FOX WNYW" tvg-logo="https://imgx.fubo.tv/station_logos/fox_new_c.png" group-title="US-LOCALS",NY | New York | FOX WNYW
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1058917.ts
+#EXTINF:-1 tvh-chnum="9" tvg-id="nbcwnbc.us" tvg-name="NY | New York | NBC WNBC" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fc3.klipartz.com%2Fpngpicture%2F80%2F841%2Fsticker-png-wnbc-tv-logo-1990.png&f=1&nofb=1&ipt=a2d3289e1e8dd5b52c79698597304d6a600c4c1f3ebbae305add3fb58d6adc1e&ipo=images" group-title="US-LOCALS",NY | New York | NBC WNBC
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1058918.ts
+#EXTINF:-1 tvh-chnum="100" tvg-id="abcwabc.us" tvg-name="ABC EAST" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/abc-white-us.png" group-title="US-ENTERTAINMENT",ABC EAST
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1000135.ts
+#EXTINF:-1 tvh-chnum="101" tvg-id="abckabc.us" tvg-name="ABC WEST" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/abc-white-us.png" group-title="US-ENTERTAINMENT",ABC WEST
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1052303.ts
+#EXTINF:-1 tvh-chnum="102" tvg-id="cbswcbs.us" tvg-name="CBS EAST" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-world.net%2Fwp-content%2Fuploads%2F2020%2F08%2FCBS-Symbol.png&f=1&nofb=1&ipt=02fd45748accdebdd1c305461ef92aac7fb1c1abc9c38ef8516898e2ff4c4738&ipo=images" group-title="US-ENTERTAINMENT",CBS EAST
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1000125.ts
+#EXTINF:-1 tvh-chnum="103" tvg-id="cbskcbs.us" tvg-name="CBS WEST" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2F736x%2F35%2Ffb%2F5f%2F35fb5f076c6d8092733be7d821258801.jpg&f=1&nofb=1&ipt=404d3280550862ddf3f396882870d91c980600d10ea32e6dc0c84836ceb7aa47&ipo=images" group-title="US-ENTERTAINMENT",CBS WEST
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1052293.ts
+#EXTINF:-1 tvh-chnum="104" tvg-id="nbcwnbc.us" tvg-name="NBC EAST" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F3%2F3f%2FNBC_logo.svg%2F1200px-NBC_logo.svg.png&f=1&nofb=1&ipt=00eb009dd69aa6ec00de81a2ac9c7a0d21616135eb5d71cec883604d67b3d3aa&ipo=images" group-title="US-ENTERTAINMENT",NBC EAST
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1000100.ts
+#EXTINF:-1 tvh-chnum="105" tvg-id="nbcknbc.us" tvg-name="NBC WEST" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F3%2F3f%2FNBC_logo.svg%2F1200px-NBC_logo.svg.png&f=1&nofb=1&ipt=00eb009dd69aa6ec00de81a2ac9c7a0d21616135eb5d71cec883604d67b3d3aa&ipo=images" group-title="US-ENTERTAINMENT",NBC WEST
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1052294.ts
+#EXTINF:-1 tvh-chnum="106" tvg-id="foxnewschannel.us" tvg-name="FOX NEWS" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F6%2F67%2FFox_News_Channel_logo.svg%2F1200px-Fox_News_Channel_logo.svg.png&f=1&nofb=1&ipt=a99ffb17d9f642d0f13532f4767e9769051ebd8eda5eebb8e9e8a16ca707dcdf&ipo=images" group-title="US-ENTERTAINMENT",FOX NEWS
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1000384.ts
+#EXTINF:-1 tvh-chnum="107" tvg-id="pbswpbs.us" tvg-name="PBS" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogosmarken.com%2Fwp-content%2Fuploads%2F2022%2F02%2FPBS-Logo-1971-1984.png&f=1&nofb=1&ipt=8f300233f93f77259e6f45d9b54506daaf0869ab78d94c7508a9d5f0d27c3b62&ipo=images" group-title="US-ENTERTAINMENT",PBS
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1002822.ts
+#EXTINF:-1 tvh-chnum="108" tvg-id="newsmaxtv.us" tvg-name="Newsmax" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/newsmax-tv-us.png" group-title="US-ENTERTAINMENT",Newsmax
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1166462.ts
+#EXTINF:-1 tvh-chnum="109" tvg-id="foxwnyw.us" tvg-name="FOX EAST" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10212_h15_ab.png" group-title="US-ENTERTAINMENT",FOX EAST
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1000114.ts
+#EXTINF:-1 tvh-chnum="110" tvg-id="scrippsnews.us" tvg-name=" Scripps NEws (NEWSY)" tvg-logo="https://mma.prnewswire.com/media/509100/The_EW_Scripps_Company_Newsy_Logo.jpg" group-title="US-ENTERTAINMENT", Scripps NEws (NEWSY)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1039708.ts
+#EXTINF:-1 tvh-chnum="111" tvg-id="aandenetwork.us" tvg-name="A&E" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/AE-Logo-500x281.png" group-title="US-ENTERTAINMENT",A&E
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1000137.ts
+#EXTINF:-1 tvh-chnum="112" tvg-id="abcnewslive.us" tvg-name="ABC NEWS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/abc-news-us.png" group-title="US-ENTERTAINMENT",ABC NEWS
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1000136.ts
+#EXTINF:-1 tvh-chnum="113" tvg-id="accuweather.us" tvg-name="ACCUWEATHER" tvg-logo="https://www.verizon.com/about/sites/default/files/news-media/150310_AccuWeather_640x400.jpg" group-title="US-ENTERTAINMENT",ACCUWEATHER
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1069986.ts
+#EXTINF:-1 tvh-chnum="114" tvg-id="cartoonnetwork.us" tvg-name="ADULT SWIM (8PM-5AM)" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s26769_h15_ab.png" group-title="US-ENTERTAINMENT",ADULT SWIM (8PM-5AM)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1002515.ts
+#EXTINF:-1 tvh-chnum="115" tvg-id="amc.us" tvg-name="AMC (EAST)" tvg-logo="https://static.wikia.nocookie.net/walkingdead/images/c/c2/AMC2016.svg/revision/latest/scale-to-width-down/175?cb=20161219004049" group-title="US-ENTERTAINMENT",AMC (EAST)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1000133.ts
+#EXTINF:-1 tvh-chnum="116" tvg-id="amcpacific.us" tvg-name="AMC (WEST)" tvg-logo="https://static.wikia.nocookie.net/walkingdead/images/c/c2/AMC2016.svg/revision/latest/scale-to-width-down/175?cb=20161219004049" group-title="US-ENTERTAINMENT",AMC (WEST)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/2192143.ts
+#EXTINF:-1 tvh-chnum="117" tvg-id="storiesbyamc.us" tvg-name="AMC - STORIES BY AMC" tvg-logo="https://static.wikia.nocookie.net/walkingdead/images/c/c2/AMC2016.svg/revision/latest/scale-to-width-down/175?cb=20161219004049" group-title="US-ENTERTAINMENT",AMC - STORIES BY AMC
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1166473.ts
+#EXTINF:-1 tvh-chnum="118" tvg-id="amcthrillers.us" tvg-name="AMC THRILLERS" tvg-logo="https://static-us-east-2-fastly-a.www.philo.com/images/channel_logos/AMCRSH/large.png?auto=webp&ver=1&auto=webp&width=200" group-title="US-ENTERTAINMENT",AMC THRILLERS
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/2193470.ts
+#EXTINF:-1 tvh-chnum="119" tvg-id="amcplus.us" tvg-name="AMC+" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-states/amc%2B-2020.png" group-title="US-ENTERTAINMENT",AMC+
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1166474.ts
+#EXTINF:-1 tvh-chnum="120" tvg-id="americanheroeschannel.us" tvg-name="AMERICAN HEROES CHANNEL (AHC)" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s18284_h15_aa.png" group-title="US-ENTERTAINMENT",AMERICAN HEROES CHANNEL (AHC)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1059429.ts
+#EXTINF:-1 tvh-chnum="121" tvg-id="amgtv.us" tvg-name="AMG TV" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.theplatformtv.online%2Fupload%2Fimages%2FAMG.jpg&f=1&nofb=1&ipt=dde4eb3d894278283acb1ab31b37e267ff36b97c40458d41dc02b794cf440038&ipo=images" group-title="US-ENTERTAINMENT",AMG TV
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/2179335.ts
+#EXTINF:-1 tvh-chnum="122" tvg-id="animalplanet.us" tvg-name="ANIMAL PLANET" tvg-logo="https://cdn.iptvboss.pro/logos/USA/AnimalPlanet.us.png" group-title="US-ENTERTAINMENT",ANIMAL PLANET
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1000167.ts
+#EXTINF:-1 tvh-chnum="123" tvg-id="animalplanetpacific.us" tvg-name="ANIMAL PLANET WEST" tvg-logo="https://cdn.iptvboss.pro/logos/USA/AnimalPlanet.us.png" group-title="US-ENTERTAINMENT",ANIMAL PLANET WEST
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1052419.ts
+#EXTINF:-1 tvh-chnum="124" tvg-id="bbcworldnews.us" tvg-name="BBC WORLD NEWS" tvg-logo="https://imgx.fubo.tv/station_logos/bbc-news_c.png" group-title="US-ENTERTAINMENT",BBC WORLD NEWS
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1000352.ts
+#EXTINF:-1 tvh-chnum="125" tvg-id="bravopacific.us" tvg-name="BRAVO WEST" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10057_h15_ab.png" group-title="US-ENTERTAINMENT",BRAVO WEST
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1052422.ts
+#EXTINF:-1 tvh-chnum="126" tvg-id="cbsnews.us" tvg-name="CBS NEWS" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2F736x%2F35%2Ffb%2F5f%2F35fb5f076c6d8092733be7d821258801.jpg&f=1&nofb=1&ipt=404d3280550862ddf3f396882870d91c980600d10ea32e6dc0c84836ceb7aa47&ipo=images" group-title="US-ENTERTAINMENT",CBS NEWS
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1002818.ts
+#EXTINF:-1 tvh-chnum="127" tvg-id="chivetv.us" tvg-name="CHIVE TV (currently no working source)" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngfind.com%2Fpngs%2Fm%2F349-3490287_thechive-logo-on-transparent-graphics-hd-png-download.png&f=1&nofb=1&ipt=91993c98c05ac9a3c60f81382aec4c7d220ff21cccb8604b915968ac8b1dc113&ipo=images" group-title="US-ENTERTAINMENT",CHIVE TV (currently no working source)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/2183158.ts
+#EXTINF:-1 tvh-chnum="128" tvg-id="cookingchannel.us" tvg-name="COOKING CHANNEL" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s30156_h15_aa.png" group-title="US-ENTERTAINMENT",COOKING CHANNEL
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1000363.ts
+#EXTINF:-1 tvh-chnum="129" tvg-id="thecowboychannel.us" tvg-name="COWBOY CHANNEL" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette1.wikia.nocookie.net%2Flogopedia%2Fimages%2Ff%2Ff2%2FCowboy_Channel.png%2Frevision%2Flatest%3Fcb%3D20170701025556&f=1&nofb=1&ipt=80de569a9d7e183464d3372da1a7baf16d1641ca14beee68e54864b7f78b56d9&ipo=images" group-title="US-ENTERTAINMENT",COWBOY CHANNEL
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1166890.ts
+#EXTINF:-1 tvh-chnum="130" tvg-id="cwwphl.us" tvg-name="CW EAST (PHILLY)" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s51306_h15_ab.png" group-title="US-ENTERTAINMENT",CW EAST (PHILLY)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1000118.ts
+#EXTINF:-1 tvh-chnum="131" tvg-id="independentkmax.us" tvg-name="CW WEST (SACARMENTO)" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s51306_h15_ab.png" group-title="US-ENTERTAINMENT",CW WEST (SACARMENTO)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1052295.ts
+#EXTINF:-1 tvh-chnum="132" tvg-id="destinationamerica.us" tvg-name="DESTINATION AMERICA" tvg-logo="https://img.favpng.com/23/3/21/united-states-destination-america-television-show-logo-png-favpng-qWC0XGahG91r7LzGSZnHGRGqh.jpg" group-title="US-ENTERTAINMENT",DESTINATION AMERICA
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1000365.ts
+#EXTINF:-1 tvh-chnum="133" tvg-id="discoverychannel.us" tvg-name="DISCOVERY EAST" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogolook.net%2Fwp-content%2Fuploads%2F2023%2F10%2FDiscovery-Channel-Logo-2016.png&f=1&nofb=1&ipt=41ed0097c45a48de46cfb009ba2aefca1d398b112434c0507634d77dec5ed047&ipo=images" group-title="US-ENTERTAINMENT",DISCOVERY EAST
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1000370.ts
+#EXTINF:-1 tvh-chnum="134" tvg-id="discoveryfamilychannel.us" tvg-name="DISCOVERY FAMILY" tvg-logo="https://cdn.iptvboss.pro/logos/USA/DiscoveryFamilyChannel.us.png" group-title="US-ENTERTAINMENT",DISCOVERY FAMILY
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1000367.ts
+#EXTINF:-1 tvh-chnum="135" tvg-id="discoverylifechannel.us" tvg-name="DISCOVERY LIFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Discovery_Life_logo_2016.svg/1920px-Discovery_Life_logo_2016.svg.png" group-title="US-ENTERTAINMENT",DISCOVERY LIFE
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1000371.ts
+#EXTINF:-1 tvh-chnum="136" tvg-id="discoverychannelpacific.us" tvg-name="DISCOVERY WEST" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogolook.net%2Fwp-content%2Fuploads%2F2023%2F10%2FDiscovery-Channel-Logo-2016.png&f=1&nofb=1&ipt=41ed0097c45a48de46cfb009ba2aefca1d398b112434c0507634d77dec5ed047&ipo=images" group-title="US-ENTERTAINMENT",DISCOVERY WEST
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1052425.ts
+#EXTINF:-1 tvh-chnum="137" tvg-id="eentertainmenttelevisionpacific.us" tvg-name="E! ENTERTAINMENT WEST" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freelogovectors.net%2Fwp-content%2Fuploads%2F2020%2F03%2Fe-entertainment-television-logo.png&f=1&nofb=1&ipt=0af9fa18b62fabceb41a1db18adf5c6df3124360ad407d9460e2f1e05bb31efe&ipo=images" group-title="US-ENTERTAINMENT",E! ENTERTAINMENT WEST
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1052426.ts
+#EXTINF:-1 tvh-chnum="138" tvg-id="covid19" tvg-name="ET LIVE (TEST)" tvg-logo="https://image.roku.com/developer_channels/prod/ac71664c9d4347d7b9a8ef4fbda1a4c56d0016f56e2fc2216cda2ce6b65af4eb.png" group-title="US-ENTERTAINMENT",ET LIVE (TEST)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/2183652.ts
+#EXTINF:-1 tvh-chnum="139" tvg-id="foodnetworkpacific.us" tvg-name="FOOD NETWORK WEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1920px-Food_Network_logo.svg.png" group-title="US-ENTERTAINMENT",FOOD NETWORK WEST
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1052427.ts
+#EXTINF:-1 tvh-chnum="140" tvg-id="foxbusiness.us" tvg-name="FOX BUSINESS NETWORK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-business-us.png" group-title="US-ENTERTAINMENT",FOX BUSINESS NETWORK
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1000115.ts
+#EXTINF:-1 tvh-chnum="141" tvg-id="foxweather.us" tvg-name="FOX WEATHER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/300px-Fox_Weather_logo.svg.png" group-title="US-ENTERTAINMENT",FOX WEATHER
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/2183654.ts
+#EXTINF:-1 tvh-chnum="142" tvg-id="foxkttv.us" tvg-name="FOX WEST" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10212_h15_ab.png" group-title="US-ENTERTAINMENT",FOX WEST
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1052292.ts
+#EXTINF:-1 tvh-chnum="143" tvg-id="fx.us" tvg-name="FX (EAST)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fx-us.png?raw=true" group-title="US-ENTERTAINMENT",FX (EAST)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1000112.ts
+#EXTINF:-1 tvh-chnum="144" tvg-id="fxpacific.us" tvg-name="FX (WEST)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fx-us.png?raw=true" group-title="US-ENTERTAINMENT",FX (WEST)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/2192128.ts
+#EXTINF:-1 tvh-chnum="145" tvg-id="fxx.us" tvg-name="FXX (EAST)" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fe7.pngegg.com%2Fpngimages%2F384%2F134%2Fpng-clipart-fxx-logo-television-channel-freeform-select-television-angle.png&f=1&nofb=1&ipt=36615100bf844f7684cf641e685a7f5f2b9d783907c4e94056718c5fe1e5c8a6&ipo=images" group-title="US-ENTERTAINMENT",FXX (EAST)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1000159.ts
+#EXTINF:-1 tvh-chnum="146" tvg-id="fxxpacific.us" tvg-name="FXX (WEST)" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fe7.pngegg.com%2Fpngimages%2F384%2F134%2Fpng-clipart-fxx-logo-television-channel-freeform-select-television-angle.png&f=1&nofb=1&ipt=36615100bf844f7684cf641e685a7f5f2b9d783907c4e94056718c5fe1e5c8a6&ipo=images" group-title="US-ENTERTAINMENT",FXX (WEST)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/2192142.ts
+#EXTINF:-1 tvh-chnum="147" tvg-id="grit.us" tvg-name="GRIT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.pngaaa.com%2F253%2F1752253-middle.png&f=1&nofb=1&ipt=b292ae1f9275a76d5026594e269b3ae1f2792c94074ca10bdd7300f58cd15418&ipo=images" group-title="US-ENTERTAINMENT",GRIT
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1014846.ts
+#EXTINF:-1 tvh-chnum="148" tvg-id="gritxtra.us" tvg-name="GRIT XTRA" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.wikia.nocookie.net%2Flogopedia%2Fimages%2Fc%2Fc7%2FGrit_Xtra.png%2Frevision%2Flatest%2Fscale-to-width-down%2F1200%3Fcb%3D20230928015355&f=1&nofb=1&ipt=ed36f6e5d13457d44662fdb3e8fb8f91dd72355d541483b5932d130cebcbbc5e&ipo=images" group-title="US-ENTERTAINMENT",GRIT XTRA
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/2192659.ts
+#EXTINF:-1 tvh-chnum="149" tvg-id="hallmarkchannel.us" tvg-name="HALLMARK CHANNEL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hallmark-channel-us.png" group-title="US-ENTERTAINMENT",HALLMARK CHANNEL
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1000156.ts
+#EXTINF:-1 tvh-chnum="150" tvg-id="hallmarkfamily.us" tvg-name="HALLMARK FAMILY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hallmark-family-us.png" group-title="US-ENTERTAINMENT",HALLMARK FAMILY
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1000389.ts
+#EXTINF:-1 tvh-chnum="151" tvg-id="hallmarkmystery.us" tvg-name="HALLMARK MYSTERY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hallmark-mystery-us.png" group-title="US-ENTERTAINMENT",HALLMARK MYSTERY
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1000388.ts
+#EXTINF:-1 tvh-chnum="152" tvg-id="hdnetmovies.us" tvg-name="HDNET MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/HDNET_Movies_Logo.png" group-title="US-ENTERTAINMENT",HDNET MOVIES
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1043427.ts
+#EXTINF:-1 tvh-chnum="153" tvg-id="heroesandicons.us" tvg-name="HEROES & ICONS" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fb%2Fbb%2FHeroes_and_Icons_logo.png&f=1&nofb=1&ipt=26f46ff51a821833d07c85abed4722c58542db1058ca808f0ec6e893d472ab25&ipo=images" group-title="US-ENTERTAINMENT",HEROES & ICONS
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1143061.ts
+#EXTINF:-1 tvh-chnum="154" tvg-id="hgtv.us" tvg-name="HGTV EAST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/640px-HGTV_2010.svg.png" group-title="US-ENTERTAINMENT",HGTV EAST
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1000106.ts
+#EXTINF:-1 tvh-chnum="155" tvg-id="history.us" tvg-name="HISTORY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png" group-title="US-ENTERTAINMENT",HISTORY
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1000105.ts
+#EXTINF:-1 tvh-chnum="156" tvg-id="ifc.us" tvg-name="IFC" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.vhv.rs%2Fdpng%2Fd%2F324-3248300_ifc-channel-hd-png-download.png&f=1&nofb=1&ipt=71306ac646158418f050dd01dd8ed0c544199aebf14f25f2b0a7a8d11945b0cb&ipo=images" group-title="US-ENTERTAINMENT",IFC
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1000390.ts
+#EXTINF:-1 tvh-chnum="157" tvg-id="ifcfilmspicks.us" tvg-name="IFC Films Picks" tvg-logo="http://p-img.movetv.com/cms/images/6f5a07715bb907bf95b9ff2a0b6fa3ac64c58957.png" group-title="US-ENTERTAINMENT",IFC Films Picks
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/2171762.ts
+#EXTINF:-1 tvh-chnum="158" tvg-id="lifetime.us" tvg-name="LIFETIME HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Lifetime_tv_logo.svg/1200px-Lifetime_tv_logo.svg.png" group-title="US-ENTERTAINMENT",LIFETIME HD
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1000104.ts
+#EXTINF:-1 tvh-chnum="159" tvg-id="lifetimemoviesnetwork.us" tvg-name="LIFETIME MOVIE NETWORK [LMN]" tvg-logo="http://2.bp.blogspot.com/-D9_cepaSuUY/TtUfE3z6CwI/AAAAAAAADIk/f8F2DCQdPoA/w1200-h630-p-k-no-nu/Lifetime+Movie+Network+logo+2011.png" group-title="US-ENTERTAINMENT",LIFETIME MOVIE NETWORK [LMN]
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/2193494.ts
+#EXTINF:-1 tvh-chnum="160" tvg-id="lifetimerealwomen.us" tvg-name="LIFETIME REAL WOMEN (SD)" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s29612_h15_aa.png" group-title="US-ENTERTAINMENT",LIFETIME REAL WOMEN (SD)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/2192129.ts
+#EXTINF:-1 tvh-chnum="161" tvg-id="magnolianetwork.us" tvg-name="MAGNOLIA NETWORK" tvg-logo="https://ap2-prod-images.disco-api.com/2021/08/31/468fcbf8-e333-4299-b5f4-bf4dd4723311.png" group-title="US-ENTERTAINMENT",MAGNOLIA NETWORK
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1000381.ts
+#EXTINF:-1 tvh-chnum="162" tvg-id="militaryhistorychannel.us" tvg-name="MILITARY HISTORY" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2Fd%2Fd0%2FHistory_channel_military.png&f=1&nofb=1&ipt=714e696281d5b885f25c9d0865499d4e8cc6468a44499161a94b55d9f0034732&ipo=images" group-title="US-ENTERTAINMENT",MILITARY HISTORY
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/2178632.ts
+#EXTINF:-1 tvh-chnum="163" tvg-id="nationalgeographicwild.us" tvg-name="NAT GEO WILD" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.imgbin.com%2F17%2F14%2F25%2Fimgbin-nat-geo-wild-national-geographic-television-show-television-channel-others-RGUa0YsPaxNHSy1Yg8ELUL65d.jpg&f=1&nofb=1&ipt=9421ae33cdd1bde4aa76106b55a89c30df43372ba96e4f055f979268da8b5085&ipo=images" group-title="US-ENTERTAINMENT",NAT GEO WILD
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1000148.ts
+#EXTINF:-1 tvh-chnum="164" tvg-id="nationalgeographic.us" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-world.net%2Fwp-content%2Fuploads%2F2020%2F09%2FNational-Geographic-Channel-Logo-2001-2005.png&f=1&nofb=1&ipt=571d753369beeae9e5cefc2fbc99a23238808448f46adab2ad0f5691a6c96e1d&ipo=images" group-title="US-ENTERTAINMENT",NATIONAL GEOGRAPHIC
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1000101.ts
+#EXTINF:-1 tvh-chnum="165" tvg-id="nbclx.us" tvg-name="NBC LX" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.squarespace-cdn.com%2Fcontent%2Fv1%2F5f5aafd6889ab21afdd76ee9%2F1633021275174-6CMEYXB32RPG7MOMM1G0%2FNBC%2BLX%2BLogo.png&f=1&nofb=1&ipt=711b29858a315728dacdd9cf8b99f94afe1b83e67c96e69a0f0d36c94407491c&ipo=images" group-title="US-ENTERTAINMENT",NBC LX
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1091816.ts
+#EXTINF:-1 tvh-chnum="166" tvg-id="nbcnewsnow.us" tvg-name="NBC NEWS NOW" tvg-logo="https://cdn.iptvboss.pro/logos/USA/NBCNewsNow.us.png" group-title="US-ENTERTAINMENT",NBC NEWS NOW
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/2170876.ts
+#EXTINF:-1 tvh-chnum="167" tvg-id="necn.us" tvg-name="NECN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/NECN_Logo_2015.png" group-title="US-ENTERTAINMENT",NECN
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1081517.ts
+#EXTINF:-1 tvh-chnum="168" tvg-id="oneamericanewsnetwork.us" tvg-name="ONE AMERICA NEWS" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.iheart.com%2Fv3%2Fre%2Fnew_assets%2F5faefbc04b2d2470f40bf614&f=1&nofb=1&ipt=0f2d0aa275e3b75635400808e9d4de541e0ad6de916e305a94594bdad323a5bb&ipo=images" group-title="US-ENTERTAINMENT",ONE AMERICA NEWS
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1060254.ts
+#EXTINF:-1 tvh-chnum="169" tvg-id="paramountnetwork.us" tvg-name="PARAMOUNT NETWORK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/paramount-network-us.png" group-title="US-ENTERTAINMENT",PARAMOUNT NETWORK
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1000096.ts
+#EXTINF:-1 tvh-chnum="170" tvg-id="createmptdt2.us" tvg-name="PBS CREATE (MARYLAND)" tvg-logo="https://cdn.iptvboss.pro/logos/USA/CreateMPTDT2.us.png" group-title="US-ENTERTAINMENT",PBS CREATE (MARYLAND)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/2192544.ts
+#EXTINF:-1 tvh-chnum="171" tvg-id="reelzchannel.us" tvg-name="REELZ" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F11%2FReelz_logo_logotype.png&f=1&nofb=1&ipt=d13596358de6e64d00792e3119d54e58294c33e3a671c835d6e0f7ae9f63aaf8&ipo=images" group-title="US-ENTERTAINMENT",REELZ
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1002500.ts
+#EXTINF:-1 tvh-chnum="172" tvg-id="retrotv.us" tvg-name="RETRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/RetroTV_logo.png" group-title="US-ENTERTAINMENT",RETRO TV
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/2188712.ts
+#EXTINF:-1 tvh-chnum="173" tvg-id="smithsoniannetwork.us" tvg-name="SMITHSONIAN CHANNEL (EAST)" tvg-logo="https://imgx.fubo.tv/station_logos/smithsonian_c.png" group-title="US-ENTERTAINMENT",SMITHSONIAN CHANNEL (EAST)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1000401.ts
+#EXTINF:-1 tvh-chnum="174" tvg-id="smithsonianchannelpacific.us" tvg-name="SMITHSONIAN CHANNEL(West)" tvg-logo="https://imgx.fubo.tv/station_logos/smithsonian_c.png" group-title="US-ENTERTAINMENT",SMITHSONIAN CHANNEL(West)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1059363.ts
+#EXTINF:-1 tvh-chnum="175" tvg-id="sonymoviechannel.us" tvg-name="SONY MOVIE CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Sony-movie-channel-2017-logo.png/666px-Sony-movie-channel-2017-logo.png" group-title="US-ENTERTAINMENT",SONY MOVIE CHANNEL
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1000402.ts
+#EXTINF:-1 tvh-chnum="176" tvg-id="sundancetv.us" tvg-name="SUNDANCE" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F3%2F32%2FSundance_Channel_Logo.png&f=1&nofb=1&ipt=2f38a89ac9bbd35b30aea4ab9efe7c4aef226ddb3f9587b4acc09ab17228a872&ipo=images" group-title="US-ENTERTAINMENT",SUNDANCE
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1000160.ts
+#EXTINF:-1 tvh-chnum="177" tvg-id="tbspacific.us" tvg-name="TBS WEST" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.liblogo.com%2Fimg-logo%2Ftb1877t985-tbs-logo-the-branding-source-tbs-previews-new-logo.png&f=1&nofb=1&ipt=7437381020075035f4eae6b2cfaa6cb1fa167296e23fac3da9840a7d96078785&ipo=images" group-title="US-ENTERTAINMENT",TBS WEST
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1052434.ts
+#EXTINF:-1 tvh-chnum="178" tvg-id="tcm.us" tvg-name="TCM" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.liblogo.com%2Fimg-logo%2Ftc7455fdcb-tcm-logo-file-turner-classic-movies-tcm-latin-america-2015-logo-png.png&f=1&nofb=1&ipt=7ce0b0a6306f395122ca781e6b3d758fce095dff331732cdd29e2098c7728cba&ipo=images" group-title="US-ENTERTAINMENT",TCM
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1000405.ts
+#EXTINF:-1 tvh-chnum="179" tvg-id="tcmpacific.us" tvg-name="TCM WEST" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.liblogo.com%2Fimg-logo%2Ftc7455fdcb-tcm-logo-file-turner-classic-movies-tcm-latin-america-2015-logo-png.png&f=1&nofb=1&ipt=7ce0b0a6306f395122ca781e6b3d758fce095dff331732cdd29e2098c7728cba&ipo=images" group-title="US-ENTERTAINMENT",TCM WEST
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/2179972.ts
+#EXTINF:-1 tvh-chnum="180" tvg-id="tlc.us" tvg-name="TLC EAST" tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/TLC-Logo.png" group-title="US-ENTERTAINMENT",TLC EAST
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1000374.ts
+#EXTINF:-1 tvh-chnum="181" tvg-id="tntpacific.us" tvg-name="TNT WEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/1920px-TNT_%28TV_Channel%29.svg.png" group-title="US-ENTERTAINMENT",TNT WEST
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1052436.ts
+#EXTINF:-1 tvh-chnum="182" tvg-id="theweatherchannel.us" tvg-name="WEATHER CHANNEL" tvg-logo="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F1.bp.blogspot.com%2F-hQUu9N9dbUc%2FVFedCoNIVYI%2FAAAAAAAAGRw%2FT1zkxJS4n4U%2Fs1600%2FLogo%252BThe_Weather_Channel.png&f=1&nofb=1&ipt=9566ab943897abc778e23f81068275d42bb29f8f062a25a79cead04cf1600beb&ipo=images" group-title="US-ENTERTAINMENT",WEATHER CHANNEL
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1000085.ts
+#EXTINF:-1 tvh-chnum="183" tvg-id="weathernationtv.us" tvg-name="WEATHERNATION TV" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.livenewsmag.com%2Fwp-content%2Fuploads%2F2016%2F09%2Fweathernation-tv-live.png&f=1&nofb=1&ipt=f62f67127f14868b477bc59e3516e5fbe5603001f342eef8c0d86a6fdbfc7bda&ipo=images" group-title="US-ENTERTAINMENT",WEATHERNATION TV
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1071504.ts
+#EXTINF:-1 tvh-chnum="199" tvg-id="crave1.ca" tvg-name="CA: CRAVE 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/crave-1-ca.png?raw=true" group-title="PREMIUM MOVIES",CA: CRAVE 1
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1009125.ts
+#EXTINF:-1 tvh-chnum="200" tvg-id="crave2.ca" tvg-name="CA: CRAVE 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/crave-2-ca.png?raw=true" group-title="PREMIUM MOVIES",CA: CRAVE 2
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1000462.ts
+#EXTINF:-1 tvh-chnum="201" tvg-id="crave3.ca" tvg-name="CA: CRAVE 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/crave-3-ca.png?raw=true" group-title="PREMIUM MOVIES",CA: CRAVE 3
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1000461.ts
+#EXTINF:-1 tvh-chnum="202" tvg-id="crave4.ca" tvg-name="CA: CRAVE 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/crave-4-ca.png?raw=true" group-title="PREMIUM MOVIES",CA: CRAVE 4
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1000460.ts
+#EXTINF:-1 tvh-chnum="203" tvg-id="hbo1.ca" tvg-name="CA: HBO 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/hbo-1-ca.png?raw=true" group-title="PREMIUM MOVIES",CA: HBO 1
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1000498.ts
+#EXTINF:-1 tvh-chnum="204" tvg-id="hbo2.ca" tvg-name="CA: HBO 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/hbo-2-ca.png?raw=true" group-title="PREMIUM MOVIES",CA: HBO 2
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1036981.ts
+#EXTINF:-1 tvh-chnum="205" tvg-id="hollywoodsuite2000smovies.ca" tvg-name="CA: Hollywood Suite 2000s" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/hollywood-suite-2000s-movies-ca.png?raw=true" group-title="PREMIUM MOVIES",CA: Hollywood Suite 2000s
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1073957.ts
+#EXTINF:-1 tvh-chnum="206" tvg-id="hollywoodsuite2010s+movies.ca" tvg-name="CA: Hollywood Suite 2010s" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v3/73578-23ED4.png" group-title="PREMIUM MOVIES",CA: Hollywood Suite 2010s
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1073954.ts
+#EXTINF:-1 tvh-chnum="207" tvg-id="hollywoodsuite70s+movies.ca" tvg-name="CA: Hollywood Suite 70s" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/hollywood-suite-70s-movies-ca.png?raw=true" group-title="PREMIUM MOVIES",CA: Hollywood Suite 70s
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1073955.ts
+#EXTINF:-1 tvh-chnum="208" tvg-id="hollywoodsuite80sand90smovies.ca" tvg-name="CA: Hollywood Suite 80s and 90s" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/hollywood-suite-80s-movies-ca.png?raw=true" group-title="PREMIUM MOVIES",CA: Hollywood Suite 80s and 90s
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1073956.ts
+#EXTINF:-1 tvh-chnum="209" tvg-id="starz1.ca" tvg-name="CA: STARZ 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/starz-1-ca.png?raw=true" group-title="PREMIUM MOVIES",CA: STARZ 1
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/2182304.ts
+#EXTINF:-1 tvh-chnum="210" tvg-id="starz2.ca" tvg-name="CA: STARZ 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/starz-2-ca.png?raw=true" group-title="PREMIUM MOVIES",CA: STARZ 2
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/2182305.ts
+#EXTINF:-1 tvh-chnum="211" tvg-id="film4.uk" tvg-name="UK: FILM4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/film-4-uk.png?raw=true" group-title="PREMIUM MOVIES",UK: FILM4
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1000856.ts
+#EXTINF:-1 tvh-chnum="212" tvg-id="skycinemaaction.uk" tvg-name="UK: SKY CINEMA ACTION" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-action-uk.png?raw=true" group-title="PREMIUM MOVIES",UK: SKY CINEMA ACTION
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1000780.ts
+#EXTINF:-1 tvh-chnum="213" tvg-id="skycinemaanimation.uk" tvg-name="UK: SKY CINEMA ANIMATION" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-animation-uk.png?raw=true" group-title="PREMIUM MOVIES",UK: SKY CINEMA ANIMATION
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/2193555.ts
+#EXTINF:-1 tvh-chnum="214" tvg-id="skycinemacomedy.uk" tvg-name="UK: SKY CINEMA COMEDY" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-comedy-uk.png?raw=true" group-title="PREMIUM MOVIES",UK: SKY CINEMA COMEDY
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1000779.ts
+#EXTINF:-1 tvh-chnum="215" tvg-id="skycinemadrama.uk" tvg-name="UK: SKY CINEMA DRAMA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-drama-uk.png?raw=true" group-title="PREMIUM MOVIES",UK: SKY CINEMA DRAMA
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1060242.ts
+#EXTINF:-1 tvh-chnum="216" tvg-id="skycinemafamily.uk" tvg-name="UK: SKY CINEMA FAMILY" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-family-uk.png?raw=true" group-title="PREMIUM MOVIES",UK: SKY CINEMA FAMILY
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1000777.ts
+#EXTINF:-1 tvh-chnum="217" tvg-id="skycinemagreats.uk" tvg-name="UK: SKY CINEMA GREATS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-greats-uk.png?raw=true" group-title="PREMIUM MOVIES",UK: SKY CINEMA GREATS
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1000776.ts
+#EXTINF:-1 tvh-chnum="218" tvg-id="skycinemahits.uk" tvg-name="UK: SKY CINEMA HITS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-hits-uk.png?raw=true" group-title="PREMIUM MOVIES",UK: SKY CINEMA HITS
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1037196.ts
+#EXTINF:-1 tvh-chnum="219" tvg-id="skycinemapremiere.uk" tvg-name="UK: SKY CINEMA PREMIERE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-premiere-uk.png?raw=true" group-title="PREMIUM MOVIES",UK: SKY CINEMA PREMIERE
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1000775.ts
+#EXTINF:-1 tvh-chnum="220" tvg-id="skycinemasci-fiandhorror.uk" tvg-name="UK: SKY CINEMA SCI-FI & HORROR" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-sci-fi-and-horror-uk.png?raw=true" group-title="PREMIUM MOVIES",UK: SKY CINEMA SCI-FI & HORROR
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1000774.ts
+#EXTINF:-1 tvh-chnum="221" tvg-id="skycinemaselect.uk" tvg-name="UK: SKY CINEMA SELECT" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-select-uk.png?raw=true" group-title="PREMIUM MOVIES",UK: SKY CINEMA SELECT
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1000773.ts
+#EXTINF:-1 tvh-chnum="222" tvg-id="skycinemathriller.uk" tvg-name="UK: SKY CINEMA THRILLER" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-thriller-uk.png?raw=true" group-title="PREMIUM MOVIES",UK: SKY CINEMA THRILLER
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1000736.ts
+#EXTINF:-1 tvh-chnum="223" tvg-id="cinemax.us" tvg-name="CINEMAX (EAST)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-us.png?raw=true" group-title="PREMIUM MOVIES",CINEMAX (EAST)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1170870.ts
+#EXTINF:-1 tvh-chnum="224" tvg-id="cinemaxpacific.us" tvg-name="CINEMAX (WEST)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-us.png?raw=true" group-title="PREMIUM MOVIES",CINEMAX (WEST)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1000124.ts
+#EXTINF:-1 tvh-chnum="225" tvg-id="cinemaxaction.us" tvg-name="CINEMAX ACTION" tvg-logo="https://cdn.iptvboss.pro/logos/USA/CinemaxAction.us.png" group-title="PREMIUM MOVIES",CINEMAX ACTION
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1000168.ts
+#EXTINF:-1 tvh-chnum="226" tvg-id="cinemaxclassics.us" tvg-name="CINEMAX CLASSICS" tvg-logo="https://cdn.iptvboss.pro/logos/USA/CinemaxClassics.us.png" group-title="PREMIUM MOVIES",CINEMAX CLASSICS
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1000139.ts
+#EXTINF:-1 tvh-chnum="227" tvg-id="cinemaxhits.us" tvg-name="CINEMAX HITS (EAST)" tvg-logo="https://cdn.iptvboss.pro/logos/USA/CinemaxHitsPacific.us.png" group-title="PREMIUM MOVIES",CINEMAX HITS (EAST)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1000103.ts
+#EXTINF:-1 tvh-chnum="228" tvg-id="cinemaxhitspacific.us" tvg-name="CINEMAX HITS (WEST)" tvg-logo="https://cdn.iptvboss.pro/logos/USA/CinemaxHitsPacific.us.png" group-title="PREMIUM MOVIES",CINEMAX HITS (WEST)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/2194729.ts
+#EXTINF:-1 tvh-chnum="229" tvg-id="hbo.us" tvg-name="HBO (EAST)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hbo-us.png" group-title="PREMIUM MOVIES",HBO (EAST)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1000107.ts
+#EXTINF:-1 tvh-chnum="230" tvg-id="hbopacific.us" tvg-name="HBO (WEST)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hbo-us.png" group-title="PREMIUM MOVIES",HBO (WEST)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/2180011.ts
+#EXTINF:-1 tvh-chnum="231" tvg-id="hbocomedy.us" tvg-name="HBO COMEDY (EAST)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hbo-comedy-us.png" group-title="PREMIUM MOVIES",HBO COMEDY (EAST)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1000110.ts
+#EXTINF:-1 tvh-chnum="232" tvg-id="hbocomedypacific.us" tvg-name="HBO COMEDY (WEST)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hbo-comedy-us.png" group-title="PREMIUM MOVIES",HBO COMEDY (WEST)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/2180008.ts
+#EXTINF:-1 tvh-chnum="233" tvg-id="hbodrama.us" tvg-name="HBO DRAMA (EAST)" tvg-logo="https://cdn.iptvboss.pro/logos/USA/HBODramaPacific.us.png" group-title="PREMIUM MOVIES",HBO DRAMA (EAST)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1000109.ts
+#EXTINF:-1 tvh-chnum="234" tvg-id="hbodramapacific.us" tvg-name="HBO DRAMA (WEST)" tvg-logo="https://cdn.iptvboss.pro/logos/USA/HBODramaPacific.us.png" group-title="PREMIUM MOVIES",HBO DRAMA (WEST)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/2180010.ts
+#EXTINF:-1 tvh-chnum="235" tvg-id="hbohits.us" tvg-name="HBO HITS (EAST)" tvg-logo="https://cdn.iptvboss.pro/logos/USA/HBOHits.us.png" group-title="PREMIUM MOVIES",HBO HITS (EAST)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1000499.ts
+#EXTINF:-1 tvh-chnum="236" tvg-id="hbohitspacific.us" tvg-name="HBO HITS (WEST)" tvg-logo="https://cdn.iptvboss.pro/logos/USA/HBOHits.us.png" group-title="PREMIUM MOVIES",HBO HITS (WEST)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/2180007.ts
+#EXTINF:-1 tvh-chnum="237" tvg-id="hbomovies.us" tvg-name="HBO MOVIES (EAST)" tvg-logo="https://cdn.iptvboss.pro/logos/USA/HBOMoviesPacific.us.png" group-title="PREMIUM MOVIES",HBO MOVIES (EAST)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1000108.ts
+#EXTINF:-1 tvh-chnum="238" tvg-id="hbomoviespacific.us" tvg-name="HBO MOVIES (WEST)" tvg-logo="https://cdn.iptvboss.pro/logos/USA/HBOMoviesPacific.us.png" group-title="PREMIUM MOVIES",HBO MOVIES (WEST)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/2180012.ts
+#EXTINF:-1 tvh-chnum="239" tvg-id="indieplex.us" tvg-name="INDIEPLEX (EAST)" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/indiexplex.png" group-title="PREMIUM MOVIES",INDIEPLEX (EAST)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1081487.ts
+#EXTINF:-1 tvh-chnum="240" tvg-id="mgm+.us" tvg-name="MGM+" tvg-logo="https://www.hollywoodreporter.com/wp-content/uploads/2022/09/MGMPLUS-H-2022.jpg" group-title="PREMIUM MOVIES",MGM+
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1002836.ts
+#EXTINF:-1 tvh-chnum="241" tvg-id="mgm+drivein.us" tvg-name="MGM+ DRIVE-IN" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s103828_h15_ad.png" group-title="PREMIUM MOVIES",MGM+ DRIVE-IN
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1002838.ts
+#EXTINF:-1 tvh-chnum="242" tvg-id="mgm+hits.us" tvg-name="MGM+ HITS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/MGM%2B_Hits_2023.svg/revision/latest/scale-to-width-down/300?cb=20230117170227" group-title="PREMIUM MOVIES",MGM+ HITS
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1002837.ts
+#EXTINF:-1 tvh-chnum="243" tvg-id="mgm+marquee.us" tvg-name="MGM+ MARQUEE" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s74073_h15_ad.png" group-title="PREMIUM MOVIES",MGM+ MARQUEE
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1000379.ts
+#EXTINF:-1 tvh-chnum="244" tvg-id="movieplex.us" tvg-name="MOVIEPLEX (EAST)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/movie-plex-us.png?raw=true" group-title="PREMIUM MOVIES",MOVIEPLEX (EAST)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1081488.ts
+#EXTINF:-1 tvh-chnum="245" tvg-id="retroplex.us" tvg-name="RETROPLEX (EAST)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/plex-retroplex-us.png?raw=true" group-title="PREMIUM MOVIES",RETROPLEX (EAST)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1081489.ts
+#EXTINF:-1 tvh-chnum="246" tvg-id="paramount+withshowtime.us" tvg-name="SHOWTIME (EAST)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/showtime-us.png" group-title="PREMIUM MOVIES",SHOWTIME (EAST)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1000145.ts
+#EXTINF:-1 tvh-chnum="247" tvg-id="paramount+withshowtimepacific.us" tvg-name="SHOWTIME (WEST)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/showtime-us.png" group-title="PREMIUM MOVIES",SHOWTIME (WEST)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1071160.ts
+#EXTINF:-1 tvh-chnum="248" tvg-id="showtime2.us" tvg-name="SHOWTIME 2 (EAST)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/showtime-2-us.png" group-title="PREMIUM MOVIES",SHOWTIME 2 (EAST)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1000960.ts
+#EXTINF:-1 tvh-chnum="249" tvg-id="showtime2pacific.us" tvg-name="SHOWTIME 2 (WEST)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/showtime-2-us.png" group-title="PREMIUM MOVIES",SHOWTIME 2 (WEST)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/2180016.ts
+#EXTINF:-1 tvh-chnum="250" tvg-id="showtimeextreme.us" tvg-name="SHOWTIME EXTREME (EAST)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/showtime-extreme-us.png" group-title="PREMIUM MOVIES",SHOWTIME EXTREME (EAST)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1000959.ts
+#EXTINF:-1 tvh-chnum="251" tvg-id="showtimeextremepacific.us" tvg-name="SHOWTIME EXTREME (WEST)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/showtime-extreme-us.png" group-title="PREMIUM MOVIES",SHOWTIME EXTREME (WEST)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/2180017.ts
+#EXTINF:-1 tvh-chnum="252" tvg-id="showtimefamilyzone.us" tvg-name="SHOWTIME FAMILY ZONE (EAST)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/showtime-family-zone-us.png" group-title="PREMIUM MOVIES",SHOWTIME FAMILY ZONE (EAST)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1002824.ts
+#EXTINF:-1 tvh-chnum="253" tvg-id="showtimefamilyzonepacific.us" tvg-name="SHOWTIME FAMILY ZONE (WEST)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/showtime-family-zone-us.png" group-title="PREMIUM MOVIES",SHOWTIME FAMILY ZONE (WEST)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/2180018.ts
+#EXTINF:-1 tvh-chnum="254" tvg-id="showtimenext.us" tvg-name="SHOWTIME NEXT (EAST)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/showtime-next-us.png" group-title="PREMIUM MOVIES",SHOWTIME NEXT (EAST)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1002825.ts
+#EXTINF:-1 tvh-chnum="255" tvg-id="showtimenextpacific.us" tvg-name="SHOWTIME NEXT (WEST)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/showtime-next-us.png" group-title="PREMIUM MOVIES",SHOWTIME NEXT (WEST)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/2180019.ts
+#EXTINF:-1 tvh-chnum="256" tvg-id="showtimeshowcase.us" tvg-name="SHOWTIME SHOWCASE (EAST)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/showtime-showcase-us.png" group-title="PREMIUM MOVIES",SHOWTIME SHOWCASE (EAST)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1071159.ts
+#EXTINF:-1 tvh-chnum="257" tvg-id="showtimeshowcasepacific.us" tvg-name="SHOWTIME SHOWCASE (WEST)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/showtime-showcase-us.png" group-title="PREMIUM MOVIES",SHOWTIME SHOWCASE (WEST)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/2180020.ts
+#EXTINF:-1 tvh-chnum="258" tvg-id="showtimewomen.us" tvg-name="SHOWTIME WOMEN (EAST)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/showtime-women-us.png" group-title="PREMIUM MOVIES",SHOWTIME WOMEN (EAST)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1002827.ts
+#EXTINF:-1 tvh-chnum="259" tvg-id="showtimewomenpacific.us" tvg-name="SHOWTIME WOMEN (WEST)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/showtime-women-us.png" group-title="PREMIUM MOVIES",SHOWTIME WOMEN (WEST)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/2180021.ts
+#EXTINF:-1 tvh-chnum="260" tvg-id="shoxbet.us" tvg-name="SHOxBET (EAST)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sho-bet-us.png?raw=true" group-title="PREMIUM MOVIES",SHOxBET (EAST)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1037197.ts
+#EXTINF:-1 tvh-chnum="261" tvg-id="starz.us" tvg-name="STARZ (EAST)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/starz-us.png" group-title="PREMIUM MOVIES",STARZ (EAST)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1000093.ts
+#EXTINF:-1 tvh-chnum="262" tvg-id="starzpacific.us" tvg-name="STARZ (WEST)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/starz-us.png" group-title="PREMIUM MOVIES",STARZ (WEST)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1069984.ts
+#EXTINF:-1 tvh-chnum="263" tvg-id="starzcinema.us" tvg-name="STARZ CINEMA (EAST)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/starz-cinema-us.png" group-title="PREMIUM MOVIES",STARZ CINEMA (EAST)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1000094.ts
+#EXTINF:-1 tvh-chnum="264" tvg-id="starzcinemapacific.us" tvg-name="STARZ CINEMA (WEST)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/starz-cinema-us.png" group-title="PREMIUM MOVIES",STARZ CINEMA (WEST)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/2180023.ts
+#EXTINF:-1 tvh-chnum="265" tvg-id="starzcomedy.us" tvg-name="STARZ COMEDY (EAST)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/starz-comedy-us.png" group-title="PREMIUM MOVIES",STARZ COMEDY (EAST)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1002831.ts
+#EXTINF:-1 tvh-chnum="266" tvg-id="starzcomedypacific.us" tvg-name="STARZ COMEDY (WEST)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/starz-comedy-us.png" group-title="PREMIUM MOVIES",STARZ COMEDY (WEST)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/2180024.ts
+#EXTINF:-1 tvh-chnum="267" tvg-id="starzedge.us" tvg-name="STARZ EDGE (EAST)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/starz-edge-us.png" group-title="PREMIUM MOVIES",STARZ EDGE (EAST)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1002832.ts
+#EXTINF:-1 tvh-chnum="268" tvg-id="starzedgepacific.us" tvg-name="STARZ EDGE (WEST)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/starz-edge-us.png" group-title="PREMIUM MOVIES",STARZ EDGE (WEST)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/2180025.ts
+#EXTINF:-1 tvh-chnum="269" tvg-id="starzencore.us" tvg-name="STARZ ENCORE (EAST)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/starz-encore-us.png" group-title="PREMIUM MOVIES",STARZ ENCORE (EAST)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1002835.ts
+#EXTINF:-1 tvh-chnum="270" tvg-id="starzencorepacific.us" tvg-name="STARZ ENCORE (WEST)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/starz-encore-us.png" group-title="PREMIUM MOVIES",STARZ ENCORE (WEST)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1069983.ts
+#EXTINF:-1 tvh-chnum="271" tvg-id="starzencoreaction.us" tvg-name="STARZ ENCORE ACTION (EAST)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-action-us.png?raw=true" group-title="PREMIUM MOVIES",STARZ ENCORE ACTION (EAST)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1002828.ts
+#EXTINF:-1 tvh-chnum="272" tvg-id="starzencoreblack.us" tvg-name="STARZ ENCORE BLACK (EAST)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/starz-encore-black-us.png" group-title="PREMIUM MOVIES",STARZ ENCORE BLACK (EAST)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1002829.ts
+#EXTINF:-1 tvh-chnum="273" tvg-id="starzencoreclassic.us" tvg-name="STARZ ENCORE CLASSIC (EAST)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-classic-us.png?raw=true" group-title="PREMIUM MOVIES",STARZ ENCORE CLASSIC (EAST)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1002830.ts
+#EXTINF:-1 tvh-chnum="274" tvg-id="starzencorefamily.us" tvg-name="STARZ ENCORE FAMILY (EAST)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/starz-encore-family-us.png" group-title="PREMIUM MOVIES",STARZ ENCORE FAMILY (EAST)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1002833.ts
+#EXTINF:-1 tvh-chnum="275" tvg-id="starzencoresuspense.us" tvg-name="STARZ ENCORE SUSPENSE (EAST)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/starz-encore-suspense-us.png" group-title="PREMIUM MOVIES",STARZ ENCORE SUSPENSE (EAST)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1002834.ts
+#EXTINF:-1 tvh-chnum="276" tvg-id="starzencorewesterns.us" tvg-name="STARZ ENCORE WESTERNS (EAST)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-westerns-us.png?raw=true" group-title="PREMIUM MOVIES",STARZ ENCORE WESTERNS (EAST)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1017682.ts
+#EXTINF:-1 tvh-chnum="277" tvg-id="starzencorewesternspacific.us" tvg-name="STARZ ENCORE WESTERNS (WEST)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-westerns-us.png?raw=true" group-title="PREMIUM MOVIES",STARZ ENCORE WESTERNS (WEST)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/2180031.ts
+#EXTINF:-1 tvh-chnum="278" tvg-id="starzinblack.us" tvg-name="STARZ IN BLACK (EAST)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/starz-black-us.png" group-title="PREMIUM MOVIES",STARZ IN BLACK (EAST)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1044870.ts
+#EXTINF:-1 tvh-chnum="279" tvg-id="starzinblackpacific.us" tvg-name="STARZ IN BLACK (WEST)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/starz-black-us.png" group-title="PREMIUM MOVIES",STARZ IN BLACK (WEST)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/2180032.ts
+#EXTINF:-1 tvh-chnum="280" tvg-id="starzkids.us" tvg-name="STARZ KIDS & FAMILY (EAST)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-kids-and-family-us.png?raw=true" group-title="PREMIUM MOVIES",STARZ KIDS & FAMILY (EAST)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1044869.ts
+#EXTINF:-1 tvh-chnum="281" tvg-id="starzkidspacific.us" tvg-name="STARZ KIDS & FAMILY (WEST)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-kids-and-family-us.png?raw=true" group-title="PREMIUM MOVIES",STARZ KIDS & FAMILY (WEST)
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/2180033.ts
+#EXTINF:-1 tvh-chnum="282" tvg-id="screenpixaction.us" tvg-name="ScreenPix Action" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/screenpix-action-us.png?raw=true" group-title="PREMIUM MOVIES",ScreenPix Action
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/2180228.ts
+#EXTINF:-1 tvh-chnum="283" tvg-id="screenpixvoices.us" tvg-name="ScreenPix Voices" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/screenpix-voices-us.png?raw=true" group-title="PREMIUM MOVIES",ScreenPix Voices
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/2180229.ts
+#EXTINF:-1 tvh-chnum="284" tvg-id="screenpixwesterns.us" tvg-name="ScreenPix Westerns" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/screenpix-westerns-us.png?raw=true" group-title="PREMIUM MOVIES",ScreenPix Westerns
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/2180230.ts
+#EXTINF:-1 tvh-chnum="285" tvg-id="screenpix.us" tvg-name="Screenpix" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/screenpix-us.png?raw=true" group-title="PREMIUM MOVIES",Screenpix
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/2180199.ts
+#EXTINF:-1 tvh-chnum="286" tvg-id="themoviechannel.us" tvg-name="THE MOVIE CHANNEL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/the-movie-channel-us.png?raw=true" group-title="PREMIUM MOVIES",THE MOVIE CHANNEL
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/1081470.ts
+#EXTINF:-1 tvh-chnum="287" tvg-id="themoviechannelextra.us" tvg-name="The Movie Channel Xtra" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/the-movie-channel-xtra-us.png?raw=true" group-title="PREMIUM MOVIES",The Movie Channel Xtra
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/2178631.ts
+#EXTINF:-1 tvh-chnum="288" tvg-id="654933e253fc970008390114" tvg-name="UNIVERSAL ACTION" tvg-logo="https://images.pluto.tv/channels/654933e253fc970008390114/colorLogoPNG.png" group-title="PREMIUM MOVIES",UNIVERSAL ACTION
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/2194726.ts
+#EXTINF:-1 tvh-chnum="298" tvg-id="destinationamerica.us" tvg-name="USA: DESTINATION AMERICA SD" tvg-logo="https:/vstreams.stream/backup/1000365.jpg" group-title="LOW BANDWIDTH",USA: DESTINATION AMERICA SD
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/2185341.ts
+#EXTINF:-1 tvh-chnum="299" tvg-id="discoverychannel.us" tvg-name="USA: DISCOVERY CHANNEL SD" tvg-logo="https:/vstreams.stream/backup/1000370.png" group-title="LOW BANDWIDTH",USA: DISCOVERY CHANNEL SD
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/2185342.ts
+#EXTINF:-1 tvh-chnum="300" tvg-id="foodnetwork.us" tvg-name="USA: FOOD NETWORK SD" tvg-logo="https:/vstreams.stream/backup/1000382.png" group-title="LOW BANDWIDTH",USA: FOOD NETWORK SD
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/2185352.ts
+#EXTINF:-1 tvh-chnum="301" tvg-id="foxbusiness.us" tvg-name="USA: FOX BUSINESS SD" tvg-logo="https:/vstreams.stream/backup/1000115.png" group-title="LOW BANDWIDTH",USA: FOX BUSINESS SD
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/2185354.ts
+#EXTINF:-1 tvh-chnum="302" tvg-id="foxnewschannel.us" tvg-name="USA: FOX NEWS SD" tvg-logo="https:/vstreams.stream/backup/1000384.png" group-title="LOW BANDWIDTH",USA: FOX NEWS SD
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/2185355.ts
+#EXTINF:-1 tvh-chnum="303" tvg-id="hallmarkmoviesandmysteries.us" tvg-name="USA: HALLMARK MOVIES & MYSTERIES SD" tvg-logo="https:/vstreams.stream/backup/2185369.png" group-title="LOW BANDWIDTH",USA: HALLMARK MOVIES & MYSTERIES SD
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/2185369.ts
+#EXTINF:-1 tvh-chnum="304" tvg-id="hallmarkchannel.us" tvg-name="USA: HALLMARK SD" tvg-logo="https:/vstreams.stream/backup/2185364.png" group-title="LOW BANDWIDTH",USA: HALLMARK SD
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/2185364.ts
+#EXTINF:-1 tvh-chnum="305" tvg-id="hgtv.us" tvg-name="USA: HGTV SD" tvg-logo="https:/vstreams.stream/backup/2185366.png" group-title="LOW BANDWIDTH",USA: HGTV SD
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/2185366.ts
+#EXTINF:-1 tvh-chnum="306" tvg-id="lifetimemoviesnetwork.us" tvg-name="USA: LIFETIME MOVIES SD" tvg-logo="https:/vstreams.stream/backup/2185372.png" group-title="LOW BANDWIDTH",USA: LIFETIME MOVIES SD
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/2185372.ts
+#EXTINF:-1 tvh-chnum="307" tvg-id="lifetime.us" tvg-name="USA: LIFETIME SD" tvg-logo="https:/vstreams.stream/backup/2185371.png" group-title="LOW BANDWIDTH",USA: LIFETIME SD
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/2185371.ts
+#EXTINF:-1 tvh-chnum="308" tvg-id="nationalgeographicwild.us" tvg-name="USA: NATIONAL GEOGRAPHIC WILD SD" tvg-logo="https:/vstreams.stream/backup/2185378.png" group-title="LOW BANDWIDTH",USA: NATIONAL GEOGRAPHIC WILD SD
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/2185378.ts
+#EXTINF:-1 tvh-chnum="309" tvg-id="oan.us" tvg-name="USA: ONE AMERICA NEWS NETWORK SD" tvg-logo="https:/vstreams.stream/backup/2185386.png" group-title="LOW BANDWIDTH",USA: ONE AMERICA NEWS NETWORK SD
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/2185386.ts
+#EXTINF:-1 tvh-chnum="310" tvg-id="paramountnetwork.us" tvg-name="USA: PARAMOUNT NETWORK SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/paramount-network-us.png" group-title="LOW BANDWIDTH",USA: PARAMOUNT NETWORK SD
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/2185390.ts
+#EXTINF:-1 tvh-chnum="311" tvg-id="sonymoviechannel.us" tvg-name="USA: SONY MOVIES SD" tvg-logo="https:/vstreams.stream/backup/2185381.png" group-title="LOW BANDWIDTH",USA: SONY MOVIES SD
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/2185381.ts
+#EXTINF:-1 tvh-chnum="312" tvg-id="tlc.us" tvg-name="USA: TLC SD" tvg-logo="https:/vstreams.stream/backup/2185403.png" group-title="LOW BANDWIDTH",USA: TLC SD
+http://wp.strmz.cc:80/halfagascan/Bn8dhKLR/2185403.ts

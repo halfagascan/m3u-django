@@ -12,7 +12,7 @@ class Channel(models.Model):
     channel_name = models.CharField(max_length=200)
     channel_url = models.CharField(max_length=1200)
     channel_logo = models.ImageField(upload_to='channel_logos/', null=True, blank=True)
-    channel_logo_url = models.URLField(null=True, blank=True)
+    channel_logo_url = models.URLField(max_length=1200, null=True, blank=True)
     channel_enabled = models.BooleanField(default=False)
     channel_protected = models.BooleanField(default=False)
     stream_active = models.BooleanField(default=True)

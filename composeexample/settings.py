@@ -11,19 +11,26 @@ https://docs.djangoproject.com/en/2.2/ref/settings/
 """
 
 import os
-
-# Build paths inside the project like this: os.path.join(BASE_DIR, ...)
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+print("POSTGRES_DB from env:", os.environ.get('POSTGRES_DB'))
+print("POSTGRES_USER from env:", os.environ.get('POSTGRES_USER'))
+print("POSTGRES_PASSWORD from env:", os.environ.get('POSTGRES_PASSWORD'))
+print("POSTGRES_HOST from env:", os.environ.get('POSTGRES_HOST'))
+print("POSTGRES_PORT from env:", os.environ.get('POSTGRES_PORT'))
 
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'postgres',
-        'USER': 'postgres',
-        'HOST': 'db',
-        'PORT': 5432,
+        'NAME': os.environ.get('POSTGRES_DB', 'postgres'),
+        'USER': os.environ.get('POSTGRES_USER', 'postgres'),
+        'PASSWORD': os.environ.get('POSTGRES_PASSWORD', 'postgres'),
+        'HOST': os.environ.get('POSTGRES_HOST', 'db'),
+        'PORT': os.environ.get('POSTGRES_PORT', 5432),
     }
 }
+
+# Build paths inside the project like this: os.path.join(BASE_DIR, ...)
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/2.2/howto/deployment/checklist/

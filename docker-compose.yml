@@ -1,16 +1,27 @@
-version: '3'
-
 services:
   db:
-    image: postgres
+    image: postgres:15
+    environment:
+      POSTGRES_DB: postgres
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: mytestpass123
     ports:
       - "5432:5432"
+    restart: unless-stopped
+
   web:
     build: .
-    command: python manage.py runserver 0.0.0.0:8000
+    command: /wait-for-it.sh db:5432 -- python manage.py runserver 0.0.0.0:8000
     volumes:
       - .:/code
     ports:
       - "8000:8000"
+    restart: unless-stopped
     depends_on:
       - db
+    environment:
+      POSTGRES_DB: postgres
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: mytestpass123
+      POSTGRES_HOST: db         # <-- add this line (for clarity)!
+      POSTGRES_PORT: 5432       # <-- add this line (for clarity)!
