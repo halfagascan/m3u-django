@@ -16,12 +16,12 @@
 3. Start th container
 `docker-compose up`
 4. Run migrations
-`docker exec -it m3u-django_web_1 python manage.py migrate`
+`docker exec -it m3u-django-web-1 python manage.py migrate`
 5. Create a admin user
-`docker exec -it m3u-django_web_1 python manage.py createsuperuser`
+`docker exec -it m3u-django-web-1 python manage.py createsuperuser`
 Input a username, email and password,
 6. Import M3U
-`docker exec -it m3u-django_web_1 python manage.py m3u_import`
+`docker exec -it m3u-django-web-1 python manage.py m3u_import`
 
 # Configuring to your requirements
 

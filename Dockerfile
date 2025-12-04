@@ -1,7 +1,13 @@
-FROM python:3
-ENV PYTHONUNBUFFERED 1
-RUN mkdir /code
+FROM python:3.11
+
+ENV PYTHONUNBUFFERED=1
+
 WORKDIR /code
+
 COPY requirements.txt /code/
-RUN pip install -r requirements.txt
+RUN pip install --no-cache-dir -r requirements.txt
+COPY wait-for-it.sh /wait-for-it.sh
+RUN chmod +x /wait-for-it.sh
+
+
 COPY . /code/

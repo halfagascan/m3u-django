@@ -46,7 +46,13 @@ class Command(BaseCommand):
                 START = programme['@start']
                 STOP = programme['@stop']
                 CHANNEL = programme['@channel']
-                TITLE = bleach.clean(programme['title']['#text'])
+                title_field = programme.get('title')
+                if isinstance(title_field, dict) and '#text' in title_field:
+                    TITLE = bleach.clean(title_field['#text'])
+                elif isinstance(title_field, str):
+                    TITLE = bleach.clean(title_field)
+                else:
+                    TITLE = ""
                 try:
                     DESC = programme['desc']['#text']
                 except:
