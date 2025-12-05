@@ -1,0 +1,66 @@
+ .gitignore                                         |  47 +++
+ Dockerfile                                         |  14 +-
+ README.md                                          |   6 +-
+ code/citrus.m3u8                                   | 395 +++++++++++++++++++++
+ .../__pycache__/__init__.cpython-311.pyc           | Bin 0 -> 141 bytes
+ .../__pycache__/__init__.cpython-313.pyc           | Bin 0 -> 155 bytes
+ .../__pycache__/local_settings.cpython-311.pyc     | Bin 0 -> 497 bytes
+ .../__pycache__/local_settings.cpython-313.pyc     | Bin 0 -> 589 bytes
+ .../__pycache__/settings.cpython-311.pyc           | Bin 0 -> 4059 bytes
+ .../__pycache__/settings.cpython-313.pyc           | Bin 0 -> 3947 bytes
+ composeexample/__pycache__/urls.cpython-311.pyc    | Bin 0 -> 1113 bytes
+ composeexample/__pycache__/urls.cpython-313.pyc    | Bin 0 -> 1083 bytes
+ composeexample/__pycache__/wsgi.cpython-311.pyc    | Bin 0 -> 677 bytes
+ composeexample/local_settings.py                   |  14 +
+ composeexample/orig.local_settings.py              |  23 ++
+ composeexample/settings.py                         |  21 +-
+ docker-compose.yml                                 |  19 +-
+ requirements.txt                                   |   4 +-
+ stream/__pycache__/__init__.cpython-311.pyc        | Bin 0 -> 133 bytes
+ stream/__pycache__/__init__.cpython-313.pyc        | Bin 0 -> 147 bytes
+ stream/__pycache__/admin.cpython-311.pyc           | Bin 0 -> 5304 bytes
+ stream/__pycache__/admin.cpython-313.pyc           | Bin 0 -> 4859 bytes
+ stream/__pycache__/apps.cpython-311.pyc            | Bin 0 -> 443 bytes
+ stream/__pycache__/apps.cpython-313.pyc            | Bin 0 -> 450 bytes
+ stream/__pycache__/models.cpython-311.pyc          | Bin 0 -> 2500 bytes
+ stream/__pycache__/models.cpython-313.pyc          | Bin 0 -> 2311 bytes
+ stream/__pycache__/urls.cpython-311.pyc            | Bin 0 -> 671 bytes
+ stream/__pycache__/urls.cpython-313.pyc            | Bin 0 -> 621 bytes
+ stream/__pycache__/views.cpython-311.pyc           | Bin 0 -> 5310 bytes
+ stream/__pycache__/views.cpython-313.pyc           | Bin 0 -> 5150 bytes
+ .../__pycache__/__init__.cpython-311.pyc           | Bin 0 -> 144 bytes
+ .../__pycache__/__init__.cpython-313.pyc           | Bin 0 -> 158 bytes
+ .../commands/__pycache__/__init__.cpython-311.pyc  | Bin 0 -> 153 bytes
+ .../__pycache__/epg_import.cpython-311.pyc         | Bin 0 -> 3904 bytes
+ .../__pycache__/m3u_import.cpython-311.pyc         | Bin 0 -> 3092 bytes
+ stream/management/commands/epg_import.py           |   8 +-
+ stream/management/commands/m3u_import.py           | 113 ++----
+ .../0012_alter_channel_channel_logo_url.py         |  18 +
+ .../__pycache__/0001_initial.cpython-311.pyc       | Bin 0 -> 2343 bytes
+ .../__pycache__/0001_initial.cpython-313.pyc       | Bin 0 -> 2188 bytes
+ .../0002_auto_20190921_0945.cpython-311.pyc        | Bin 0 -> 945 bytes
+ .../0002_auto_20190921_0945.cpython-313.pyc        | Bin 0 -> 983 bytes
+ .../0003_auto_20190921_0946.cpython-311.pyc        | Bin 0 -> 806 bytes
+ .../0003_auto_20190921_0946.cpython-313.pyc        | Bin 0 -> 802 bytes
+ .../0004_auto_20190921_0950.cpython-311.pyc        | Bin 0 -> 923 bytes
+ .../0004_auto_20190921_0950.cpython-313.pyc        | Bin 0 -> 908 bytes
+ .../0005_auto_20190921_0955.cpython-311.pyc        | Bin 0 -> 786 bytes
+ .../0005_auto_20190921_0955.cpython-313.pyc        | Bin 0 -> 782 bytes
+ .../0006_auto_20190921_0955.cpython-311.pyc        | Bin 0 -> 956 bytes
+ .../0006_auto_20190921_0955.cpython-313.pyc        | Bin 0 -> 994 bytes
+ .../0007_auto_20190921_0957.cpython-311.pyc        | Bin 0 -> 786 bytes
+ .../0007_auto_20190921_0957.cpython-313.pyc        | Bin 0 -> 782 bytes
+ .../0008_auto_20190921_1005.cpython-311.pyc        | Bin 0 -> 980 bytes
+ .../0008_auto_20190921_1005.cpython-313.pyc        | Bin 0 -> 1012 bytes
+ .../0009_auto_20190921_1006.cpython-311.pyc        | Bin 0 -> 828 bytes
+ .../0009_auto_20190921_1006.cpython-313.pyc        | Bin 0 -> 824 bytes
+ .../0010_channel_channel_protected.cpython-311.pyc | Bin 0 -> 798 bytes
+ .../0010_channel_channel_protected.cpython-313.pyc | Bin 0 -> 794 bytes
+ .../0011_channel_stream_active.cpython-311.pyc     | Bin 0 -> 797 bytes
+ .../0011_channel_stream_active.cpython-313.pyc     | Bin 0 -> 793 bytes
+ ..._alter_channel_channel_logo_url.cpython-311.pyc | Bin 0 -> 831 bytes
+ .../__pycache__/__init__.cpython-311.pyc           | Bin 0 -> 144 bytes
+ .../__pycache__/__init__.cpython-313.pyc           | Bin 0 -> 158 bytes
+ stream/models.py                                   |   2 +-
+ wait-for-it.sh                                     | 182 ++++++++++
+ 65 files changed, 762 insertions(+), 104 deletions(-)
