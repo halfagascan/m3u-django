@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+env/
+venv/
+ENV/
+
+# Editor backup and swap files
+*.kate-swp
+*.swp
+*.swo
+*~
+
+# Logs and debug files
+*.log
+debug.txt
+wget-log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Django stuff:
+*.sqlite3
+db.sqlite3
+
+# Pytest cache
+.pytest_cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+.tox/
+
+# Migrations (OPTIONAL: only if you don’t want to version them!)
+# Uncomment below if you want to ignore migration files
+# stream/migrations/
+# composeexample/migrations/
+
+# Git itself
+.git/
+
+# Code directory (if not meant for version control)
+code/
