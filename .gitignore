@@ -1,0 +1,51 @@
+# Python cache and virtualenv
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+ENV/
+.build/
+develop-eggs/
+.eggs/
+dist/
+pip-wheel-metadata/
+*.egg-info/
+.installed.cfg
+
+# Editor and system files
+*.kate-swp
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs and debug files
+*.log
+debug.txt
+wget-log
+
+# Django settings (local secrets, DO NOT COMMIT)
+composeexample/local_settings.py
+
+# SQLite and test databases
+*.sqlite3
+db.sqlite3
+
+# Test, coverage, and tox reports
+htmlcov/
+coverage.xml
+.tox/
+.pytest_cache/
+.coverage
+
+# Migrations (track only as needed)
+# stream/migrations/
+
+# Anything else not meant for version control
+code/
+wait-for-it.sh
