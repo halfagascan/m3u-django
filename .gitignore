@@ -23,7 +23,7 @@ wget-log
 # OS generated files
 .DS_Store
 Thumbs.db
-
+composeexample/local_settings.py
 # Django stuff:
 *.sqlite3
 db.sqlite3
