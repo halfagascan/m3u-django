@@ -11,6 +11,22 @@ https://docs.djangoproject.com/en/2.2/ref/settings/
 """
 
 import os
+print("POSTGRES_DB from env:", os.environ.get('POSTGRES_DB'))
+print("POSTGRES_USER from env:", os.environ.get('POSTGRES_USER'))
+print("POSTGRES_PASSWORD from env:", os.environ.get('POSTGRES_PASSWORD'))
+print("POSTGRES_HOST from env:", os.environ.get('POSTGRES_HOST'))
+print("POSTGRES_PORT from env:", os.environ.get('POSTGRES_PORT'))
+
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': os.environ.get('POSTGRES_DB', 'postgres'),
+        'USER': os.environ.get('POSTGRES_USER', 'postgres'),
+        'PASSWORD': os.environ.get('POSTGRES_PASSWORD', 'postgres'),
+        'HOST': os.environ.get('POSTGRES_HOST', 'db'),
+        'PORT': os.environ.get('POSTGRES_PORT', 5432),
+    }
+}
 
 DATABASES = {
     'default': {

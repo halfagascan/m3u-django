@@ -22,7 +22,8 @@
 Input a username, email and password,
 6. Import M3U
 `docker exec -it m3u-django-web-1 python manage.py m3u_import`
-docker exec -it m3u-django-fork-web-1 python manage.py m3u_import
+'docker exec -it m3u-django-fork-web-1 python manage.py m3u_import'
+
 # Configuring to your requirements
 
 The M3U import script will, by default import any channels from the M3U where the group starts with `UK` or `USA`. This can easily be changed to your requirements.
@@ -53,6 +54,7 @@ Go into the panel; `http://127.0.0.1:8000` login with your super user details.
 2. Select the channels you want to enable, using the drop down select `Enable Channel` then `Go`.
 3. EPG for enabled channels will be auto-imported by the cronjob, but you can run the cron manually by running:
 `docker exec -it m3u-django-web-1 python manage.py epg_import`
+`docker exec -it m3u-django_web_1 python manage.py epg_import`
 
 # URLs
 
@@ -111,17 +113,12 @@ This project serves M3U playlists and XMLTV EPG directly from the database via H
      ```
    - TVHeadend will import program guide information directly from your server.
 
----
-
-### ⚡️ Database-driven streaming & EPG
 
 - **Channels and EPG info are managed using the Django admin.**
 - Changes are reflected instantly in the output playlists and guides.
 - No need to export static files—clients read playlist and guide data directly from HTTP endpoints.
 
----
 
-#### 🔑 **Endpoints provided:**
 
 - **M3U Playlist:**  
   `http://<server_ip>:8000/YOUR.m3u`  
@@ -130,7 +127,6 @@ This project serves M3U playlists and XMLTV EPG directly from the database via H
 - **XMLTV EPG:**  
   `http://<server_ip>:8000/epg.xml`
 
----
 
 ### 🔒 Access control
 
@@ -154,7 +150,6 @@ Switch endpoints to /YOUR.m3u and /epg.xml for dynamic, always-up-to-date playli
 
 
 
----
 
 #### Need help with a client or automation?  
 Contact the maintainer or open an issue!
@@ -172,3 +167,5 @@ Contact the maintainer or open an issue!
 
 
 
+=======
+>>>>>>> 835dd6c1bdc14049443767efc134dfedeebcc727
