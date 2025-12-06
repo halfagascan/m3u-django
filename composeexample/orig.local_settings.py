@@ -1,18 +1,9 @@
 STATIC_URL = '/static/'
 
-XML_URL = ""
-M3U_URL = ""
-SITE_URL = ''
+XML_URL = "https://vital.citrustv.xyz/xmltv.php?username=halfagascan&password=Bn8dhKLR&next_days=7"
+M3U_URL = "file:///code/code/citrus.m3u8"
+SITE_URL = 'https://vital.citrustv.xyz/'
 
-DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'postgres',
-        'USER': 'postgres',
-        'HOST': 'db',
-        'PORT': 5432,
-    }
-}
 
 ALLOWED_HOSTS = ['127.0.0.1']
 
@@ -20,4 +11,4 @@ ALLOWED_HOSTS = ['127.0.0.1']
 TVG_ID='.*'
 TVG_NAME='.*'
 TVG_LOGO='.*'
-GROUP_TITLE='UK.*|USA.*'
+GROUP_TITLE='.*'

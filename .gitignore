@@ -41,6 +41,9 @@ htmlcov/
 # stream/migrations/
 # composeexample/migrations/
 
+#copies not to upload
+*orig.*
+
 # Git itself
 .git/
 

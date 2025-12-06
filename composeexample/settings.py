@@ -11,23 +11,17 @@ https://docs.djangoproject.com/en/2.2/ref/settings/
 """
 
 import os
-print("POSTGRES_DB from env:", os.environ.get('POSTGRES_DB'))
-print("POSTGRES_USER from env:", os.environ.get('POSTGRES_USER'))
-print("POSTGRES_PASSWORD from env:", os.environ.get('POSTGRES_PASSWORD'))
-print("POSTGRES_HOST from env:", os.environ.get('POSTGRES_HOST'))
-print("POSTGRES_PORT from env:", os.environ.get('POSTGRES_PORT'))
 
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': os.environ.get('POSTGRES_DB', 'postgres'),
         'USER': os.environ.get('POSTGRES_USER', 'postgres'),
-        'PASSWORD': os.environ.get('POSTGRES_PASSWORD', 'postgres'),
-        'HOST': os.environ.get('POSTGRES_HOST', 'db'),
-        'PORT': os.environ.get('POSTGRES_PORT', 5432),
+        'PASSWORD': os.environ.get('POSTGRES_PASSWORD', 'mytestpass123'),
+        'HOST': '10.0.3.4',
+        'PORT': os.environ.get('POSTGRES_PORT', '5432'),
     }
 }
-
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
@@ -41,7 +35,7 @@ SECRET_KEY = '^g&9e+u$5-cttpb7q6ua63g$*ozgnk74hyvnc4rs(o^n*fq=!q'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', '10.0.3.4']
 
 MATCH_SERIES = False
 

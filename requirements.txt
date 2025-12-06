@@ -3,3 +3,4 @@ psycopg2-binary>=2.7,<3.0
 xmltodict
 Pillow
 bleach
+requests
